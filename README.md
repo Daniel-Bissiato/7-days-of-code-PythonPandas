@@ -1,5 +1,5 @@
 <div align="center">
-#7-days-of-code-PythonPandas 🐍🐼
+# 7 Days of Code Python Pandas🐍🐼
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Meu Progresso atual no desafio:
+## Meu Progresso Atual no Desafio:
 
 </div>
 
